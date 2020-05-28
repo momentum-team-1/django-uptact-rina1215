@@ -36,7 +36,7 @@ Note `(uptact-fsCrKkW6-py3.7)` at the end -- that's the virtualenv. If you need 
 
 For the first assignment, spend time familiarizing yourself with Django. Look at the `uptact` directory (the _project directory_) and the `contacts` directory (an _app directory_). Answer the following questions for yourself:
 
-* If I wanted to add a new URL to this project, what two files would I edit?
+* If I wanted to add a new URL to this project, what two files would I edit? #uptact url.py and contact forms
 * If I wanted to add a birthday to each contact, what file would I edit?
 
 Then do the following steps:
